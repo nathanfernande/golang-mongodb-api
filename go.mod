@@ -1,4 +1,4 @@
-module github.com/nathanfernande/go-mongodb
+module github.com/nathanfernande/golang-mongodb-api
 
 go 1.23.4
 

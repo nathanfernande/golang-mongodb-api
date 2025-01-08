@@ -2,8 +2,8 @@ package main
 
 import (
 	"github.com/gofiber/fiber/v2"
-	"github.com/nathanfernande/go-mongodb/configs"
-	"github.com/nathanfernande/go-mongodb/routes"
+	"github.com/nathanfernande/golang-mongodb-api/configs"
+	"github.com/nathanfernande/golang-mongodb-api/routes"
 )
 
 func main() {

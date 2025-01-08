@@ -2,9 +2,9 @@ package controllers
 
 import (
     "context" //Usado para gerenciar o contexto e controlar operações assíncronas, como limites de tempo.
-    "github.com/nathanfernande/go-mongodb/configs"
-    "github.com/nathanfernande/go-mongodb/models"
-    "github.com/nathanfernande/go-mongodb/responses"
+    "github.com/nathanfernande/golang-mongodb-api/configs"
+    "github.com/nathanfernande/golang-mongodb-api/models"
+    "github.com/nathanfernande/golang-mongodb-api/responses"
     "net/http"
     "time"
 

@@ -2,7 +2,7 @@ package routes
 
 import (
     "github.com/gofiber/fiber/v2"
-    "github.com/nathanfernande/go-mongodb/controllers"
+    "github.com/nathanfernande/golang-mongodb-api/controllers"
 )
 
 func UserRoute(app *fiber.App) {
