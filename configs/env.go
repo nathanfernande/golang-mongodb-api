@@ -3,7 +3,7 @@ package configs
 import (
     "log"
     "os"
-    "github.com/joho/godotenv" // Pacote que ajuda a carregar variáveis de ambiente a partir de um arquivo .env
+    "github.com/joho/godotenv" // Pacote ques ajuda a carregar variáveis de ambiente a partir de um arquivo .env
 )
 
 //Cria uma função EnvMongoURI que verifica se a variável de ambiente está carregada corretamente e retorna a variável de ambiente.
